@@ -1,0 +1,25 @@
+{
+  "name": "Expander Project",
+  "main": "Expander.html",
+  "version": "0.0.0",
+  "authors": [
+    "slauayama <simonlauyamauchi@gmail.com>"
+  ],
+  "description": "Just a demo on some of the code I can write",
+  "keywords": [
+    "jQuery",
+    "Bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.2.0",
+    "jquery": "~2.1.3"
+  }
+}

@@ -1,0 +1,50 @@
+/* Import some google fonts */
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+* {
+  font-family: 'Source Sans Pro', sans-serif; }
+
+body {
+  width: 920px;
+  margin: 0px auto; }
+
+.header {
+  height: 1.6em; }
+
+/* Up and Down button */
+.button {
+  padding: 12px 5px;
+  vertical-align: top; }
+  .button:hover {
+    background-color: #ddd; }
+
+/* Title */
+.title {
+  display: inline-block;
+  font-size: 16px;
+  background-color: #2980B9;
+  padding: 10px;
+  width: 350px;
+  cursor: auto; }
+  .title:hover {
+    background-color: #2C3E50; }
+  .title.red {
+    background-color: #E74C3C; }
+
+/* Content */
+.page {
+  margin: 10px 0px 10px 40px;
+  display: block; }
+
+/* MISC styles */
+.narrow {
+  width: 20em; }
+
+.big {
+  font-size: 150%; }
+
+/* Utility Styles */
+.u-display-none {
+  display: none; }
+
+.generic-border {
+  border: 1px solid black; }
